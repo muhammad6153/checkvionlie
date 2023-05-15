@@ -1,0 +1,27 @@
+[17-Mar-2023 14:08:29 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/yfj97o071pqe/public_html/checkvinonline.com/vendor/composer/platform_check.php on line 24
+[17-Mar-2023 14:09:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/yfj97o071pqe/public_html/checkvinonline.com/vendor/composer/platform_check.php on line 24
+[17-Mar-2023 14:12:19 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/yfj97o071pqe/public_html/checkvinonline.com/vendor/composer/platform_check.php on line 24
+[17-Mar-2023 14:12:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/yfj97o071pqe/public_html/checkvinonline.com/vendor/composer/platform_check.php on line 24
+[17-Mar-2023 14:12:22 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/yfj97o071pqe/public_html/checkvinonline.com/vendor/composer/platform_check.php on line 24
+[17-Mar-2023 14:12:22 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/yfj97o071pqe/public_html/checkvinonline.com/vendor/composer/platform_check.php on line 24
+[17-Mar-2023 14:12:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.32. in /home/yfj97o071pqe/public_html/checkvinonline.com/vendor/composer/platform_check.php on line 24
+[29-Mar-2023 11:53:21 UTC] PHP Warning:  require(/home/yfj97o071pqe/public_html/checkvinonline.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php on line 34
+[29-Mar-2023 11:53:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yfj97o071pqe/public_html/checkvinonline.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php on line 34
+[29-Mar-2023 11:53:23 UTC] PHP Warning:  require(/home/yfj97o071pqe/public_html/checkvinonline.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php on line 34
+[29-Mar-2023 11:53:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yfj97o071pqe/public_html/checkvinonline.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php on line 34
+[29-Mar-2023 11:53:24 UTC] PHP Warning:  require(/home/yfj97o071pqe/public_html/checkvinonline.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php on line 34
+[29-Mar-2023 11:53:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yfj97o071pqe/public_html/checkvinonline.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php on line 34
+[29-Mar-2023 11:56:52 UTC] PHP Warning:  require(/home/yfj97o071pqe/public_html/checkvinonline.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php on line 34
+[29-Mar-2023 11:56:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yfj97o071pqe/public_html/checkvinonline.com/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/yfj97o071pqe/public_html/checkvinonline.com/index.php on line 34
